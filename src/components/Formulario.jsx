@@ -1,3 +1,5 @@
+// import { useEffect, useState } from "react";
+
 const Formulario = () => {
   return (
     <div className="md:w-1/2 lg:2/5">
